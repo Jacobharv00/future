@@ -4,7 +4,7 @@
 
 > A website that I created to mimic what a real companies website might look like. The main goal for this project was to practice my CSS before attending Flatiron School and make a responsive website. The tech I used for this was HTML, CSS, and a pinch on JavaScript. Some challenges I faced while building this application was using media-screen queries in the CSS file. In the future I hope to implement real links in the footer. 
 
-<div align="center">![tech](https://media.giphy.com/media/3o6Zt5Hhky3LJddnj2/giphy.gif)<div>
+![tech](https://media.giphy.com/media/3o6Zt5Hhky3LJddnj2/giphy.gif)
 
 ### 🏠 [Homepage](https://jacobharv-future.netlify.app)
 
